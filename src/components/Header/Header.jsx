@@ -1,4 +1,4 @@
-import logo from "../../assets/images/IPL-Logo-White.png";
+import logo from "/images/IPL-Logo-White.png";
 import "./Header.css";
 
 const Header = () => {

@@ -8,7 +8,7 @@ const TeamInfo = (props) => {
   return (
     <div className="team-info">
       <img
-        src={`/src/assets/images/${imageSelector(props.title)}.png`}
+        src={`/images/${imageSelector(props.title)}.png`}
         width={24}
       />
       <h6>{props.title}</h6>
