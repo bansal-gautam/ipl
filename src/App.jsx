@@ -1,7 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
 import { useEffect, useState } from "react";
-import Header from "./components/header/header";
+import Header from "./components/Header/Header";
 import Filter from "./components/Filter/Filter";
 import MatchContainer from "./components/Match/MatchContainer";
 import Scroll from "./components/Footer/Scroll";
