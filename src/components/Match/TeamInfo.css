@@ -1,0 +1,15 @@
+.team-info {
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    width: 40%;
+    justify-content: center;
+}
+
+h6 {
+    margin-bottom: 0;
+}
+
+img {
+    margin-right: 10px
+}

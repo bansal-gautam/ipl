@@ -1,0 +1,27 @@
+.filter-container {
+    margin: 20px auto;
+    display: flex;
+    width: 75vw;
+    max-width: 750px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 768px) {
+    .filter-container {
+        display: block;
+        text-align: center;
+    }
+}
+
+.filter-head {
+    max-width: 75vw;
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 5px auto;
+    text-align: center;
+}
+
+.filter-head span {
+    color: rgb(41, 55, 120);
+}

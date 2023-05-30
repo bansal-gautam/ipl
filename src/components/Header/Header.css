@@ -1,0 +1,10 @@
+.page-header {
+    background-color: rgb(41, 55, 120);
+}
+
+.header-logo {
+    display: block;
+    width: 90px;
+    margin: 0 auto;
+    padding: 10px;
+}
